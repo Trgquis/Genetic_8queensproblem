@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(300,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(306,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(310,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(314,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(353,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(353,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(359,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(359,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(367,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(367,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(373,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(373,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> E:\ĐHCT\Artifical Inteligence\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
